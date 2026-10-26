@@ -1,6 +1,9 @@
+
 # cs79c_final_project
 Final Project for cs79c
 Stack creation
+
+<img width="665" height="767" alt="final-diagram" src="https://github.com/user-attachments/assets/a2c05601-96eb-4102-900d-83e33ca10398" />
 
 1. Download valest-final-project.yaml. This file will help expedite the process of creating our EC2 instances. The YAML file will work but just make sure you validate the file before uploading. Use the command aws cloudformation validate-template --template-body file://cs79c-stack.yaml in your cli.
 
